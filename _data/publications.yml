@@ -1,0 +1,32 @@
+main:
+  - title: "ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis"
+    authors: <strong>Muhammad Hamza Mughal</strong>, Rishabh Dabral, Ikhsanul Habibie, Lucia Donnatelli, Marc Habermann, Christian Theobalt
+    # conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    # pdf: https://arxiv.org/abs/2212.04495
+    # page: https://vcai.mpi-inf.mpg.de/projects/MoFusion/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/convofusion.gif
+    notes: Details Soon
+
+  - title: "MoFusion A Framework for Denoising-Diffusion-based Motion Synthesis"
+    authors: Rishabh Dabral, <strong>Muhammad Hamza Mughal</strong>, Vladislav Golyanik, Christian Theobalt
+    # conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2212.04495
+    page: https://vcai.mpi-inf.mpg.de/projects/MoFusion/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/MoFusion.gif
+    notes: Highlight (Top 10% of selected papers)
+
+  - title: "Assisting UAV Localization Via Deep Contextual Image Matching"
+    authors: <strong>Muhammad Hamza Mughal</strong>, Muhammad Jawad Khokar, Muhammad Shahzad
+    # conference_short: IEEE-JSTARS
+    conference: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9336232
+    code: https://github.com/m-hamza-mughal/Aerial-Template-Matching
+    dataset: https://github.com/m-hamza-mughal/Aerial-Template-Matching
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/papers/assisting_uav.gif

@@ -1,4 +1,3 @@
-# m-hamza-mughal.github.io
-personal website
+# Source Code of my website
 
-This is the source code to my [personal website](https://m-hamza-mughal.github.io/)
+Modified from https://github.com/yaoyao-liu/yaoyao-liu.github.io. Check his repo out if you want to copy this website style.
