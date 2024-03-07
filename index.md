@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de) advised by [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I am also a member of the [RTG 2853 "Neuroexplicit Models of Language, Vision, and Action"](https://www.neuroexplicit.org). Previously, I got Master's in Visual Computing from Saarland University and worked as a Research Assistant at the [MPII](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence).
+I am a Ph.D. student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de) advised by [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I am also a member of the [RTG 2853 "Neuroexplicit Models of Language, Vision, and Action"](https://www.neuroexplicit.org). Previously, I completed Master's in Visual Computing from Saarland University and worked as a Research Assistant at the [MPII](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence).
  
 My work involves exploring relations between speech, language and motion in human interactions, grounding human motion with language and enabling virtual humans to interact by means of multimodal learning. 
 
