@@ -3,11 +3,11 @@ main:
     authors: <strong>Muhammad Hamza Mughal</strong>, Rishabh Dabral, Ikhsanul Habibie, Lucia Donnatelli, Marc Habermann, Christian Theobalt
     # conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    # pdf: https://arxiv.org/abs/2212.04495
-    # page: https://vcai.mpi-inf.mpg.de/projects/MoFusion/
+    pdf: https://arxiv.org/abs/2403.17936
+    page: https://vcai.mpi-inf.mpg.de/projects/ConvoFusion/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/convofusion.gif
-    notes: Details Soon
+    # notes: Details Soon
 
   - title: "MoFusion A Framework for Denoising-Diffusion-based Motion Synthesis"
     authors: Rishabh Dabral, <strong>Muhammad Hamza Mughal</strong>, Vladislav Golyanik, Christian Theobalt
