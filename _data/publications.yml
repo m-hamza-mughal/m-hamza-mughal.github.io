@@ -6,6 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2403.17936
     page: https://vcai.mpi-inf.mpg.de/projects/ConvoFusion/
     code: https://github.com/m-hamza-mughal/convofusion
+    dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/convofusion.gif
     # notes: Details Soon
