@@ -1,4 +1,16 @@
 main:
+  - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
+    authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Merel C.J. Scholman, Vera Demberg, Christian Theobalt
+    # conference_short: CVPR
+    conference: Preprint, 2024.
+    pdf: https://arxiv.org/abs/2412.06786
+    page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
+    # code: https://github.com/m-hamza-mughal/convofusion
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/raggesture.png
+    # notes: Details Soon
+
   - title: "ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis"
     authors: <strong>Muhammad Hamza Mughal</strong>, Rishabh Dabral, Ikhsanul Habibie, Lucia Donnatelli, Marc Habermann, Christian Theobalt
     # conference_short: CVPR
