@@ -8,7 +8,7 @@ main:
     # code: https://github.com/m-hamza-mughal/convofusion
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/papers/raggesture.png
+    image: ./assets/papers/raggesture.gif
     # notes: Details Soon
 
   - title: "ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis"
