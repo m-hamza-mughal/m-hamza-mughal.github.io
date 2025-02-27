@@ -2,7 +2,7 @@ main:
   - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Merel C.J. Scholman, Vera Demberg, Christian Theobalt
     # conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025, Nashville.
     pdf: https://arxiv.org/abs/2412.06786
     page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
     # code: https://github.com/m-hamza-mughal/convofusion
@@ -14,7 +14,7 @@ main:
   - title: "ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis"
     authors: <strong>Muhammad Hamza Mughal</strong>, Rishabh Dabral, Ikhsanul Habibie, Lucia Donnatelli, Marc Habermann, Christian Theobalt
     # conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024, Seattle.
     pdf: https://arxiv.org/abs/2403.17936
     page: https://vcai.mpi-inf.mpg.de/projects/ConvoFusion/
     code: https://github.com/m-hamza-mughal/convofusion
@@ -26,7 +26,7 @@ main:
   - title: "MoFusion A Framework for Denoising-Diffusion-based Motion Synthesis"
     authors: Rishabh Dabral, <strong>Muhammad Hamza Mughal</strong>, Vladislav Golyanik, Christian Theobalt
     # conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023, Vancouver.
     pdf: https://arxiv.org/abs/2212.04495
     page: https://vcai.mpi-inf.mpg.de/projects/MoFusion/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
