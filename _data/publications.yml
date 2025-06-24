@@ -9,7 +9,7 @@ main:
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/gesturediscourse.png
-    # notes: Details Soon
+    notes: Oral (Top 8% of selected papers)
 
   - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Merel C.J. Scholman, Vera Demberg, Christian Theobalt
