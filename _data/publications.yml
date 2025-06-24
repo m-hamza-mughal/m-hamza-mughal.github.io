@@ -1,11 +1,23 @@
 main:
+  - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
+    authors: Varsha Suresh, <strong>M. Hamza Mughal</strong>, Christian Theobalt, and Vera Demberg
+    # conference_short: CVPR
+    conference: The 63rd Annual Conference of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025, Vienna.
+    pdf: https://arxiv.org/abs/2503.03474
+    # page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
+    # code: https://github.com/m-hamza-mughal/RAG-Gesture
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/gesturediscourse.png
+    # notes: Details Soon
+
   - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Merel C.J. Scholman, Vera Demberg, Christian Theobalt
     # conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025, Nashville.
     pdf: https://arxiv.org/abs/2412.06786
     page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
-    # code: https://github.com/m-hamza-mughal/convofusion
+    code: https://github.com/m-hamza-mughal/RAG-Gesture
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/raggesture.gif
