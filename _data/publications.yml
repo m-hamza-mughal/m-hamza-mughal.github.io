@@ -12,7 +12,7 @@ main:
     # notes: Details Soon
 
   - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
-    authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, and Vera Demberg (*:equal contribution)
+    authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, Vera Demberg (*:equal contribution)
     # conference_short: CVPR
     conference: Findings of the Association for Computational Linguistics <strong>(EACL)</strong>, 2026, Rabat.
     pdf: https://arxiv.org/abs/2510.19350
@@ -24,7 +24,7 @@ main:
     # notes: Oral (Top 8% of selected papers)
   
   - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
-    authors: Varsha Suresh, <strong>M. Hamza Mughal</strong>, Christian Theobalt, and Vera Demberg
+    authors: Varsha Suresh, <strong>M. Hamza Mughal</strong>, Christian Theobalt, Vera Demberg
     # conference_short: CVPR
     conference: The 63rd Annual Conference of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025, Vienna.
     pdf: https://arxiv.org/abs/2503.03474

@@ -15,7 +15,7 @@ My work involves exploring relations between speech, language and gestures/motio
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
 
 ## Timeline 
 
@@ -67,5 +67,5 @@ My work involves exploring relations between speech, language and gestures/motio
 </table>
 <!-- </div> -->
 
-
+{% include_relative _includes/services.md %}
 
