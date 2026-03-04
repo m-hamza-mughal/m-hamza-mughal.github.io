@@ -1,5 +1,5 @@
 main:
-  - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
+  - title: "MIBURI: Towards Expressive Interactive Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Vera Demberg, Christian Theobalt
     # conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026, Denver.
