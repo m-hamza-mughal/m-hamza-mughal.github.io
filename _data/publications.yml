@@ -14,7 +14,7 @@ main:
   - title: "Modeling Turn-Taking with Semantically Informed Gestures"
     authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, Vera Demberg (*:equal contribution)
     # conference_short: CVPR
-    conference: Findings of the Association for Computational Linguistics <strong>(EACL)</strong>, 2026, Rabat.
+    conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>-Findings, 2026, Rabat.
     pdf: https://arxiv.org/abs/2510.19350
     # page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
     # code: https://github.com/m-hamza-mughal/RAG-Gesture
