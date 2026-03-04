@@ -10,8 +10,13 @@ My work involves exploring the relationships across social behavior in humans th
 
 ## Research Interests
 
-- **Vision/Animation:** Human Behavior Modelling, Human Gesture Synthesis and Analysis, Multi-modal Motion Synthesis, Generative Modeling
-- **Language:** Relations b/w linguistic structures and gestures
+- **Vision/Animation:** 
+  - Human Behavior Modelling
+  - Gesture Synthesis and Analysis
+  - Multi-modal Motion Synthesis
+  - Generative Modeling
+- **Language:** 
+  - Relations b/w linguistic structures and gestures
 
 {% include_relative _includes/publications.md %}
 
