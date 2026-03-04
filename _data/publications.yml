@@ -1,4 +1,28 @@
 main:
+  - title: "Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis"
+    authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Vera Demberg, Christian Theobalt
+    # conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026, Denver.
+    pdf: https://arxiv.org/abs/2603.03282
+    page: https://vcai.mpi-inf.mpg.de/projects/MIBURI/
+    code: https://github.com/m-hamza-mughal/miburi/
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/miburi.gif
+    # notes: Details Soon
+
+  - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
+    authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, and Vera Demberg (*:equal contribution)
+    # conference_short: CVPR
+    conference: Findings of the Association for Computational Linguistics:<strong>EACL</strong>, 2026, Rabat.
+    pdf: https://arxiv.org/abs/2510.19350
+    # page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/
+    # code: https://github.com/m-hamza-mughal/RAG-Gesture
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/dndgesture++.png
+    # notes: Oral (Top 8% of selected papers)
+  
   - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
     authors: Varsha Suresh, <strong>M. Hamza Mughal</strong>, Christian Theobalt, and Vera Demberg
     # conference_short: CVPR
