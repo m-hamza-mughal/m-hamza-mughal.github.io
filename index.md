@@ -8,7 +8,7 @@ I am a Ph.D. student at the [Max Planck Institute for Informatics](https://www.m
  
 My work involves exploring the relationships across social behavior in humans through gestures, motion and language, in order to enhance digital humans and their interactions.
 
-## Research Interests
+### Research Interests
 
 - **Vision/Animation:** 
   - Human Behavior Modelling
