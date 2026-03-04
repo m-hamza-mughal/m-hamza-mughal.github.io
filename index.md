@@ -14,7 +14,7 @@ My work involves exploring the relationships across social behavior in humans th
   - Human Behavior Modelling
   - Gesture Synthesis and Analysis
   - Multi-modal Motion Synthesis
-  - Generative Modeling
+  <!-- - Generative Modeling -->
 - **Language:** 
   - Relations b/w linguistic structures and gestures
 
