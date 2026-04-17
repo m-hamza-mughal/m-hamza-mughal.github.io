@@ -9,7 +9,7 @@ main:
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/miburi.gif
-    # notes: Details Soon
+    notes: Also selected as CVPR Demo
 
   - title: "Modeling Turn-Taking with Semantically Informed Gestures"
     authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, Vera Demberg (*:equal contribution)
@@ -21,7 +21,7 @@ main:
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/dndgesture++.png
-    # notes: Oral (Top 8% of selected papers)
+    # notes: 
   
   - title: "Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues"
     authors: Varsha Suresh, <strong>M. Hamza Mughal</strong>, Christian Theobalt, Vera Demberg

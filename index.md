@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de) advised by [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I am also a member of the [RTG 2853 "Neuroexplicit Models of Language, Vision, and Action"](https://www.neuroexplicit.org). Previously, I completed Master's in Visual Computing from Saarland University and worked as a Research Assistant at the [MPII](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence).
+I am a Ph.D. student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de) advised by [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), and co-advised by [Dr. Rishabh Dabral (3DVI Lab)](https://rishabhdabral.github.io). I am also a member of the [RTG 2853 "Neuroexplicit Models of Language, Vision, and Action"](https://www.neuroexplicit.org). Previously, I completed Master's in Visual Computing from Saarland University and worked as a Research Assistant at the [MPII](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence).
  
-My work focuses on Social Behavior Modelling for Digital Humans. More specifically, it involves research on motion and behavior in humans across multi-modal signals (gestures, motion and language), in order to enhance digital humans and their interactions.
+My work focuses on Social Behavior Modelling for Digital Humans. More specifically, it involves research on behavior in humans across multi-modal signals (gestures, motion, speech and language), in order to enhance digital humans and their interactions.
 
 ### Research Interests
 - **Vision/Animation:** 
   - Human Behavior Synthesis
+  -  Multi-modal Motion Synthesis
   - Gesture Synthesis and Analysis
-  - Multi-modal Motion Synthesis
   <!-- - Generative Modeling -->
 - **Language:** 
   - Relations b/w linguistic structures and gestures
