@@ -9,7 +9,19 @@ main:
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/miburi.gif
-    notes: Also selected as CVPR Demo
+    notes: \nCVPR Best Demo Award\nBest Paper Award at Interactive Physical AI Workshop @ CVPR 2026
+
+  - title: "Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark"
+    authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Christian Theobalt
+    # conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) - Findings</strong>, 2026, Denver.
+    pdf: https://arxiv.org/abs/2511.01233
+    page: https://genea-workshop.github.io/leaderboard/
+    # code: https://github.com/m-hamza-mughal/miburi/
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/genea_paper.png
+    # notes: Also selected as CVPR Demo
 
   - title: "Modeling Turn-Taking with Semantically Informed Gestures"
     authors: Varsha Suresh*, <strong>M. Hamza Mughal*</strong>, Christian Theobalt, Vera Demberg (*:equal contribution)
