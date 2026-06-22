@@ -299,12 +299,12 @@ a:hover small {
   width:960px;
   margin:0 auto;
   /* Site-wide 125% zoom */
-  -webkit-transform: scale(1.25);
+  -webkit-transform: scale(1.20);
   -webkit-transform-origin: top center;
-  transform: scale(1.25);
+  transform: scale(1.20);
   transform-origin: top center;
   /* fallback for browsers that support it */
-  zoom: 1.25;
+  zoom: 1.20;
 }
 
 /* Prevent horizontal scroll when the wrapper is scaled */
