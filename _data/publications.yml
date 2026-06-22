@@ -9,7 +9,7 @@ main:
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/miburi.gif
-    # notes: \nCVPR Best Demo Award\nBest Paper Award at Interactive Physical AI Workshop @ CVPR 2026
+    notes: \nCVPR Best Demo Award\nBest Paper Award at Interactive Physical AI Workshop @ CVPR 2026
 
   - title: "Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Christian Theobalt
