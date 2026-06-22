@@ -10,10 +10,10 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/miburi.gif
     notes: Best Demo Award
-    notes2: Best Paper Award at Interactive Physical AI (IPA) Workshop (CVPR 2026)
+    notes2: Best Paper Award @ Interactive Physical AI Workshop (CVPR 2026)
 
   - title: "Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark"
-    authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Christian Theobalt
+    authors: Rajmund Nagy, Hendric Voss, Thanh Hoang-Minh, Mihail Tsakov, Teodor Nikolov, Zeyi Zhang, Tenglong Ao, Sicheng Yang, Shaoli Huang, Yongkang Cheng, <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Kiran Chhatre, Christian Theobalt, Libin Liu, Stefan Kopp, Rachel McDonnell, Michael Neff, Taras Kucherenko, Youngwoo Yoon, Gustav Eje Henter
     # conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) - Findings</strong>, 2026, Denver.
     pdf: https://arxiv.org/abs/2511.01233
