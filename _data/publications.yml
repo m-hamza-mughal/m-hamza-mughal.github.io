@@ -10,7 +10,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/papers/miburi.gif
     notes: Best Demo Award
-    notes2: Best Paper Award @ Interactive Physical AI Workshop (CVPR 2026)
+    notes2: Best Paper Award @ Interactive Physical AI Workshop-CVPR 2026
 
   - title: "Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark"
     authors: Rajmund Nagy, Hendric Voss, Thanh Hoang-Minh, ..., <strong>M. Hamza Mughal</strong>, Rishabh Dabral, ..., Youngwoo Yoon, Gustav Eje Henter
