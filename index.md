@@ -10,8 +10,8 @@ My work focuses on Social Behavior Modelling for Embodied Agents. More specifica
 
 ### Research Interests
 - **Vision/Animation:** 
-  - Human Behavior Synthesis
-  -  Multi-modal Motion Synthesis
+  - Human Robot Interaction
+  - Multi-modal Behavior Synthesis
   - Gesture Synthesis and Analysis
   <!-- - Generative Modeling -->
 - **Language:** 
