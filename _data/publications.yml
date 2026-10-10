@@ -1,4 +1,28 @@
 main:
+  - title: "ReFree-S2V: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance"
+    authors: Salaheldin Mohamed, <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Christian Theobalt
+    # conference_short: CVPR
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026, Sydney.
+    pdf: https://arxiv.org/pdf/2610.03765
+    page: https://salaheldinyoussry.github.io/ReFree-S2V/
+    # code: https://github.com/m-hamza-mughal/RAG-Gesture
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/refree_s2v.gif
+    # notes: Oral (Top 8% of selected papers)
+
+  - title: "Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures"
+    authors: Varsha Suresh*, Mohammad Mahdi Abootorabi*, Mohamed Salman, <strong>M. Hamza Mughal</strong>, Christian Theobalt, Ashwin Ram, Jürgen Steimle, Vera Demberg (*:equal contribution)
+    # conference_short: CVPR
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026, Sydney.
+    pdf: https://arxiv.org/pdf/2605.30608
+    # page: https://salaheldinyoussry.github.io/ReFree-S2V/
+    # code: https://github.com/m-hamza-mughal/RAG-Gesture
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/papers/semantic_motion_anchors.png
+    # notes: Oral (Top 8% of selected papers)
+
   - title: "MIBURI: Towards Expressive Interactive Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Vera Demberg, Christian Theobalt
     # conference_short: CVPR
