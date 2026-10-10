@@ -8,7 +8,7 @@ main:
     # code: https://github.com/m-hamza-mughal/RAG-Gesture
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/papers/refree_s2v.gif
+    image: ./assets/papers/refree-s2v.gif
     # notes: Oral (Top 8% of selected papers)
 
   - title: "Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures"
@@ -20,7 +20,7 @@ main:
     # code: https://github.com/m-hamza-mughal/RAG-Gesture
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/papers/semantic_motion_anchors.png
+    image: ./assets/papers/semantic-motion-anchors.png
     # notes: Oral (Top 8% of selected papers)
 
   - title: "MIBURI: Towards Expressive Interactive Gesture Synthesis"
