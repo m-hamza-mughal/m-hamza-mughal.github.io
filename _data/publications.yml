@@ -23,6 +23,18 @@ main:
     image: ./assets/papers/semantic-motion-anchors.png
     # notes: Oral (Top 8% of selected papers)
 
+  - title: "Do Motion Tokenizers for Co-Speech Gesture Generation Encode Gesture Semantics?"
+    authors: Varsha Suresh, Divij Jain, Jia Liu, <strong>M. Hamza Mughal</strong> and Vera Demberg
+    # conference_short: CVPR
+    conference: Workshop on Multimodal Interaction in Face-to-Face Dialogue <strong>(EMNLP)</strong>, 2026, Budapest.
+    pdf: https://aclanthology.org/2026.mint-1.11.pdf
+    page: https://probing-motion-tokenizer.github.io/
+    # code: https://github.com/m-hamza-mughal/RAG-Gesture
+    # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
+    # bibtex: 
+    image: ./assets/papers/emnlp-workshop.png
+    notes: Best Paper Award @ MINT Workshop-EMNLP 2026
+
   - title: "MIBURI: Towards Expressive Interactive Gesture Synthesis"
     authors: <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Vera Demberg, Christian Theobalt
     # conference_short: CVPR
