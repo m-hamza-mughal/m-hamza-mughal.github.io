@@ -3,7 +3,7 @@ main:
     authors: Salaheldin Mohamed, <strong>M. Hamza Mughal</strong>, Rishabh Dabral, Christian Theobalt
     # conference_short: CVPR
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026, Sydney.
-    pdf: https://arxiv.org/pdf/2610.03765
+    pdf: https://arxiv.org/abs/2606.13304
     page: https://salaheldinyoussry.github.io/ReFree-S2V/
     # code: https://github.com/m-hamza-mughal/RAG-Gesture
     # dataset: https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.IPFYCC
